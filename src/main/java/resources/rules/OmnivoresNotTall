@@ -1,0 +1,9 @@
+{
+  "includeParams": {
+    "types": ["OMNIVORE"]
+  },
+  "excludeParams": {
+    "heights": ["TALL"]
+  },
+  "description": "Всеядные не высокие: "
+}

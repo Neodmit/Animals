@@ -1,0 +1,7 @@
+{
+  "includeParams": {
+    "types": ["HERBIVORE", "CARNIVORE"],
+    "heights": ["SMALL"]
+  },
+  "description": "Травоядные или платоядные, маленькие: "
+}

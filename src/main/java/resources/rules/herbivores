@@ -1,0 +1,6 @@
+{
+  "includeParams": {
+    "types": ["HERBIVORE"]
+  },
+  "description":"Количество травоядных: "
+}

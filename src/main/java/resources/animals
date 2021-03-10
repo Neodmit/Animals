@@ -1,0 +1,32 @@
+[
+  {
+    "type": "HERBIVORE",
+    "weight": "LIGHT",
+    "height": "SMALL"
+  },
+  {
+    "type": "CARNIVORE",
+    "weight": "LIGHT",
+    "height": "SMALL"
+  },
+  {
+    "type": "HERBIVORE",
+    "weight": "LIGHT",
+    "height": "TALL"
+  },
+  {
+    "type": "CARNIVORE",
+    "weight": "LIGHT",
+    "height": "AVERAGE"
+  },
+  {
+    "type": "OMNIVORE",
+    "weight": "LIGHT",
+    "height": "TALL"
+  },
+  {
+    "type": "OMNIVORE",
+    "weight": "LIGHT",
+    "height": "AVERAGE"
+  }
+]
