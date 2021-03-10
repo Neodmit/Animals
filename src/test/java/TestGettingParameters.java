@@ -15,7 +15,7 @@ public class TestGettingParameters {
 
     @Test
     public void gettingHerbivoresParameters() throws FileNotFoundException {
-        String paramsFile = "C:\\Users\\Dima\\ForNeolab\\src\\main\\java\\resources\\rules\\herbivores";
+        String paramsFile = "C:\\Users\\Dima\\Animals\\src\\main\\java\\resources\\rules\\herbivores";
         List<Type> incType = new ArrayList<>();
         incType.add(Type.HERBIVORE);
         ListsRules incRules = new ListsRules(null, null, incType);
@@ -32,7 +32,7 @@ public class TestGettingParameters {
 
     @Test
     public void gettingHerbivoresOrCarnivoresSmallParameters() throws FileNotFoundException {
-        String paramsFile = "C:\\Users\\Dima\\ForNeolab\\src\\main\\java\\resources\\rules\\herbivoresOrCarnivoresSmall";
+        String paramsFile = "C:\\Users\\Dima\\Animals\\src\\main\\java\\resources\\rules\\herbivoresOrCarnivoresSmall";
         List<Type> incType = new ArrayList<>();
         List<Height> incHeight = new ArrayList<>();
         incType.add(Type.HERBIVORE);
@@ -52,7 +52,7 @@ public class TestGettingParameters {
 
     @Test
     public void gettingOmnivoresNotTallParameters() throws FileNotFoundException {
-        String paramsFile = "C:\\Users\\Dima\\ForNeolab\\src\\main\\java\\resources\\rules\\OmnivoresNotTall";
+        String paramsFile = "C:\\Users\\Dima\\Animals\\src\\main\\java\\resources\\rules\\OmnivoresNotTall";
         List<Type> incType = new ArrayList<>();
         List<Height> excHeight = new ArrayList<>();
         incType.add(Type.OMNIVORE);

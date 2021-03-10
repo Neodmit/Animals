@@ -10,7 +10,7 @@ import java.io.FileNotFoundException;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestGettingAnimals {
-    String animalsFile = "C:\\Users\\Dima\\ForNeolab\\src\\main\\java\\resources\\animals";
+    String animalsFile = "C:\\Users\\Dima\\Animals\\src\\main\\java\\resources\\animals";
 
     @Test
     public void testGettingFirstAnimal() throws FileNotFoundException {
